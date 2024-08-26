@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Travel",
+  title: "Douro Truno",
   description: "Travel UI/Ux App for Camping",
 };
 
